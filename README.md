@@ -52,3 +52,10 @@ Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary 
   - Author: [David Campos](mailto:david.campos@ua.pt)
   - Recommended by: [David Campos](mailto:david.campos@ua.pt)
   - <img src="img/egas-01.png">
+
+
+## License
+
+[![CC0 1.0](https://chbrown.github.io/licenses/CC0/0-public-domain.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Christopher Brown](https://github.com/chbrown) has waived all copyright and related or neighboring rights to this work.
