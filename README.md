@@ -1,3 +1,14 @@
+# awesome-annotation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> List of online / computer-based annotation tools
+
+## Contents
+
+- [Contents](#contents)
+- [Tools (online or PC-based)](#tools-online-or-pc-based)
+- [Contribute](#contribute)
+- [License](#license)
+
 ## Tools (online or PC-based)
 
 Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary list and emailing the [Corpora List](mailto:corpora@hd.uib.no).
@@ -53,6 +64,10 @@ Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary 
   - Recommended by: [David Campos](mailto:david.campos@ua.pt)
   - <img src="img/egas-01.png">
 
+
+## Contribute
+
+Please do! Check out the [issues](https://github.com/chbrown/awesome-annotation/issues) or submit a PR.
 
 ## License
 
