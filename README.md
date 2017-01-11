@@ -59,6 +59,10 @@ Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary 
   - [<img src="img/crowdtruth-novelty-01.png"> <img src="img/crowdtruth-novelty-02.png">](https://github.com/CrowdTruth/CrowdTruth/wiki/Tweets-Novelty-Ranking)
   - [<img src="img/crowdtruth-fact-01.png"> <img src="img/crowdtruth-fact-02.png">](https://github.com/CrowdTruth/CrowdTruth/wiki/Medical-Factors)
 
+* [PyBossa](http://pybossa.com/)
+  > PYBOSSA is the ultimate crowdsourcing framework to analyze or enrich data that can't be processed by machines alone.
+  - Inspired by [Bossa](https://boinc.berkeley.edu/trac/wiki/BossaIntro), which is "an open-source software framework for distributed thinking" built with PHP.
+
 ## License
 
 [![CC0 1.0](https://chbrown.github.io/licenses/CC0/0-public-domain.png)](https://creativecommons.org/publicdomain/zero/1.0/)
