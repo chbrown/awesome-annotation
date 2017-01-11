@@ -53,6 +53,11 @@ Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary 
   - Recommended by: [David Campos](mailto:david.campos@ua.pt)
   - <img src="img/egas-01.png">
 
+* [CrowdTruth](https://github.com/CrowdTruth/CrowdTruth)
+  > The CrowdTruth Framework implements an approach to machine-human computing for collecting annotation data on text, images, sounds and videos.
+  - jQuery, Bootstrap, require.js, Python, Jinja, with some CrowdFlower (?!) markup mixed in
+  - [<img src="img/crowdtruth-novelty-01.png"> <img src="img/crowdtruth-novelty-02.png">](https://github.com/CrowdTruth/CrowdTruth/wiki/Tweets-Novelty-Ranking)
+  - [<img src="img/crowdtruth-fact-01.png"> <img src="img/crowdtruth-fact-02.png">](https://github.com/CrowdTruth/CrowdTruth/wiki/Medical-Factors)
 
 ## License
 
