@@ -19,7 +19,7 @@ Thanks to [Hristo Tanev](mailto:htanev@yahoo.co.uk) for compiling a preliminary 
   - Recommended by: Anil Singh
   - Last updated: 2012-09-01
 
-* [WebAnno](https://code.google.com/p/webanno/)
+* [WebAnno](https://webanno.github.io/webanno/)
   - Author: Unclear, someone at University of Darmstadt
   - Recommended by: Wladimir Sidorenko and Bollette Pedersen
   - Last updated: 2014-01
